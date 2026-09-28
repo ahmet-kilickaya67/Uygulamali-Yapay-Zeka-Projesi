@@ -1,1 +1,1 @@
-# Uygulamali-Yapay-Zeka-Projesi
+# Uygulamali-Yapay-Zeka-Projesi#
