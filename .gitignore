@@ -3,3 +3,5 @@ data/*.csv
 *.sqlite3
 __pycache__/
 .venv/
+/*.csv
+/faz1_ciktilar/

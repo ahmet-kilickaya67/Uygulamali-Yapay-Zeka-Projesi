@@ -2,7 +2,7 @@
 
 Çalıştırmadan önce bu .py dosyasını üç CSV ile aynı klasöre koyun.
 VS Code terminali: pip install pandas matplotlib scikit-learn
-Çalıştırma: python faz1_veri_analizi.py
+Çalıştırma: python main.py
 
 ÖNEMLİ: Bu kod MODEL EĞİTMEZ. IMDb eğitim / doğrulama / test olarak
 ayrılır; Metacritic yalnızca hedef alan test verisi olarak hazırlanır.
